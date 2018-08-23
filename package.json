@@ -1,0 +1,8 @@
+{
+  "name": "relative-loader",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/bullub/relative-loader.git",
+  "author": "bullub <123572970@qq.com>",
+  "license": "MIT"
+}
